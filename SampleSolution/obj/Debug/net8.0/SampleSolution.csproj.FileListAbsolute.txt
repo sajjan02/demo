@@ -1,0 +1,14 @@
+C:\Users\PrathikSajjanKS\Desktop\training\weeks\week7\Day3\MyApp\SampleSolution\bin\Debug\net8.0\SampleSolution.exe
+C:\Users\PrathikSajjanKS\Desktop\training\weeks\week7\Day3\MyApp\SampleSolution\bin\Debug\net8.0\SampleSolution.deps.json
+C:\Users\PrathikSajjanKS\Desktop\training\weeks\week7\Day3\MyApp\SampleSolution\bin\Debug\net8.0\SampleSolution.runtimeconfig.json
+C:\Users\PrathikSajjanKS\Desktop\training\weeks\week7\Day3\MyApp\SampleSolution\bin\Debug\net8.0\SampleSolution.dll
+C:\Users\PrathikSajjanKS\Desktop\training\weeks\week7\Day3\MyApp\SampleSolution\bin\Debug\net8.0\SampleSolution.pdb
+C:\Users\PrathikSajjanKS\Desktop\training\weeks\week7\Day3\MyApp\SampleSolution\obj\Debug\net8.0\SampleSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PrathikSajjanKS\Desktop\training\weeks\week7\Day3\MyApp\SampleSolution\obj\Debug\net8.0\SampleSolution.AssemblyInfoInputs.cache
+C:\Users\PrathikSajjanKS\Desktop\training\weeks\week7\Day3\MyApp\SampleSolution\obj\Debug\net8.0\SampleSolution.AssemblyInfo.cs
+C:\Users\PrathikSajjanKS\Desktop\training\weeks\week7\Day3\MyApp\SampleSolution\obj\Debug\net8.0\SampleSolution.csproj.CoreCompileInputs.cache
+C:\Users\PrathikSajjanKS\Desktop\training\weeks\week7\Day3\MyApp\SampleSolution\obj\Debug\net8.0\SampleSolution.dll
+C:\Users\PrathikSajjanKS\Desktop\training\weeks\week7\Day3\MyApp\SampleSolution\obj\Debug\net8.0\refint\SampleSolution.dll
+C:\Users\PrathikSajjanKS\Desktop\training\weeks\week7\Day3\MyApp\SampleSolution\obj\Debug\net8.0\SampleSolution.pdb
+C:\Users\PrathikSajjanKS\Desktop\training\weeks\week7\Day3\MyApp\SampleSolution\obj\Debug\net8.0\SampleSolution.genruntimeconfig.cache
+C:\Users\PrathikSajjanKS\Desktop\training\weeks\week7\Day3\MyApp\SampleSolution\obj\Debug\net8.0\ref\SampleSolution.dll
